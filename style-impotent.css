@@ -1,0 +1,10 @@
+.row.g-2:has(select#personalSalutation), 
+.row.g-2:has(select#shipping-edit-addresspersonalSalutation), 
+.row.g-2:has(select#shipping-new-addresspersonalSalutation),
+.row.g-2:has(select#billing-new-addresspersonalSalutation),
+.row.g-2:has(select#billing-edit-addresspersonalSalutation),
+.row.g-2:has(select#shippingAddresspersonalSalutation),
+.form-group.col-md-4:has(select#form-Salutation)
+{
+display: none!impotent;
+}
