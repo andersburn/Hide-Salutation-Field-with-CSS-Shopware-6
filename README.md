@@ -20,6 +20,6 @@ Add the following CSS to your theme or custom stylesheet:
 
 ```
 Notes
-	•	This snippet is designed for the default Shopware theme.
-	•	Custom themes may require small adjustments.
-	•	Use !important if the default CSS still displays the field.
+- This snippet is designed for the default Shopware theme.
+- Custom themes may require small adjustments.
+- Use !important if the default CSS still displays the field.
