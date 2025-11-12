@@ -17,3 +17,9 @@ Add the following CSS to your theme or custom stylesheet:
 {
     display: none !important;
 }
+
+```
+Notes
+	•	This snippet is designed for the default Shopware theme.
+	•	Custom themes may require small adjustments.
+	•	Use !important if the default CSS still displays the field.
